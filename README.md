@@ -1,4 +1,4 @@
-# Donate For Today
+# Donate Today
 
 A simple, responsive donation-themed website built with **HTML** and **CSS**. This project focuses on clean layout, basic responsiveness, and a clear call-to-action for charitable donations.
 
