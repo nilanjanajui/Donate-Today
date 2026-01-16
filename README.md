@@ -60,6 +60,4 @@ This project was created as a beginner-friendly practice to improve skills in:
 
 This project is for learning and personal use. Feel free to modify and improve it.
 
----
 
-**Author:** Your Name
